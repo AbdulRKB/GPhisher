@@ -31,4 +31,4 @@ $ bash main.sh
 - `git`
 
 
-Thanks for Reading
+Thanks for Reading!
