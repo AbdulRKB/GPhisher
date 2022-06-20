@@ -3,7 +3,7 @@
 </h1>
 
 <h5 align="center">
-  ⚠ Warning! This project was created solely for education purposes; I am not liable for your actions! ⚠
+  ⚠ Warning! This project was created solely for educational purposes; I am not liable for your actions! ⚠
 </h5>
 
 
