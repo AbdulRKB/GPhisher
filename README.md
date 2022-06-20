@@ -11,7 +11,7 @@
   <h2>Installation</h2></a>
 
   ```bash <(wget -qO- https://github.com/CyberTitus/GPhisher/releases/download/v1.0.0/setup)``` <br>
-  Paste the command above in your terminal & GPhisher will get installed instantly!
+  Paste the above command into your terminal & GPhisher will be installed instantly!
 </div>
 
 <div align="center">
@@ -31,7 +31,6 @@
 </div>
 <hr>
 <p align="center">
-  <a href="https://github.com/CyberTitus/GPhisher"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CyberTitus/GPhisher?style=for-the-badge&color=yellow&logo=github&link=https://github.com/CyberTitus/GPhisher&link=https://github.com/CyberTitus/GPhisher"></a>
   <a href="https://github.com/CyberTitus"><img alt="author" src="https://img.shields.io/badge/Made%20by-CyberTitus-blue?style=for-the-badge&logo=github&color=red&link=https://github.com/CyberTitus&link=https://github.com/CyberTitus"></a><br>
   ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ɪssᴜᴇ ᴛʜᴇɴ ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʜᴇsɪᴛᴀᴛᴇ ᴛᴏ ʀᴇᴘᴏʀᴛ
 </p>
