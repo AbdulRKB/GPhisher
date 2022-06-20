@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOCAL_IP=$(hostname -I | tr -d " ")
+LOCAL_IP=$(hostname -I | grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}")
 
 started_tool(){
 	clear
