@@ -29,8 +29,9 @@
   This repository is licensed under [Creative Commons Zero v1.0 Universal](https://raw.githubusercontent.com/CyberTitus/GPhisher/master/LICENSE.md), This means that you are free to use this tool for commercial purposes. 
 
 </div>
-
+<hr>
 <p align="center">
   <a href="https://github.com/CyberTitus/GPhisher"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CyberTitus/GPhisher?style=for-the-badge&color=yellow&logo=github&link=https://github.com/CyberTitus/GPhisher&link=https://github.com/CyberTitus/GPhisher"></a>
-  <a href="https://github.com/CyberTitus"><img alt="author" src="https://img.shields.io/badge/Made%20by-CyberTitus-blue?style=for-the-badge&logo=github&color=red&link=https://github.com/CyberTitus&link=https://github.com/CyberTitus"></a>
+  <a href="https://github.com/CyberTitus"><img alt="author" src="https://img.shields.io/badge/Made%20by-CyberTitus-blue?style=for-the-badge&logo=github&color=red&link=https://github.com/CyberTitus&link=https://github.com/CyberTitus"></a><br>
+  ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ɪssᴜᴇ ᴛʜᴇɴ ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʜᴇsɪᴛᴀᴛᴇ ᴛᴏ ʀᴇᴘᴏʀᴛ
 </p>
