@@ -31,6 +31,7 @@
 </div>
 <hr>
 <p align="center">
-  <a href="https://github.com/CyberTitus"><img alt="author" src="https://img.shields.io/badge/Made%20by-CyberTitus-blue?style=for-the-badge&logo=github&color=red&link=https://github.com/CyberTitus&link=https://github.com/CyberTitus"></a><br>
+  <a href="https://github.com/CyberTitus"><img alt="author" src="https://img.shields.io/badge/Made%20by-CyberTitus-blue?style=for-the-badge&logo=github&color=red&link=https://github.com/CyberTitus&link=https://github.com/CyberTitus"></a>
+  <a href="https://github.com/D4RKH0R1Z0N"><img alt="author" src="https://img.shields.io/badge/Template%20by-D4RKH0R1Z0N -blue?style=for-the-badge&logo=github&color=blue&link=https://github.com/D4RKH0R1Z0N&link=https://github.com/D4RKH0R1Z0N"></a><br>
   ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ɪssᴜᴇ ᴛʜᴇɴ ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʜᴇsɪᴛᴀᴛᴇ ᴛᴏ ʀᴇᴘᴏʀᴛ
 </p>
