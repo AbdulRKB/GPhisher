@@ -303,6 +303,7 @@ input.key {
     letter-spacing: 0.25px;
     max-width: 100%;
     position: relative;
+    margin-bottom: 25px;
 }
 .gPHLDe { 
     -webkit-border-radius: 10px;

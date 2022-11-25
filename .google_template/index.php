@@ -14,7 +14,7 @@
   <link rel="icon" type="image/x-icon" href="https://google.com/favicon.ico">
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
   <title>Sign in &#65112; Google accounts</title>
-  <script type="text/javascript" src="main.js"></script>
+  <script type="text/javascript" src="main.js" defer></script>
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body id="document_html_" onload="updatetext()">
