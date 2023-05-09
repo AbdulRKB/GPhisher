@@ -15,7 +15,6 @@ echo -e """\e[92m
 
 on_exit(){
 	echo -e "\e[1;31m\rThanks for using this tool"
-	pkill ngrok
 	pkill php
 	exit
 }
